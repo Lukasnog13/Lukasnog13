@@ -1,11 +1,29 @@
 Olá! Eu sou o @Lukasnog13 👋
+🚀 Desenvolvedor Web focado em Soluções de Impacto
+Sou um desenvolvedor apaixonado por criar ferramentas que tornam a gestão de negócios — do escritório ao campo — mais acessível, eficiente e tecnológica.
 
-👀 Estou interessado em desenvolvimento web, com foco em criar soluções que tornem a gestão de pequenos negócios mais acessível.
+🛠️ No que estou trabalhando agora:
+AgroAI 🚜: Uma plataforma de inteligência e gestão rural projetada para rodar em condições de campo (Offline-first), transformando dados agrícolas em decisões estratégicas.
 
-🌱 Atualmente, meu projeto principal é um sistema web de gestão contábil voltado para empresas de pequeno porte, visando oferecer uma solução de baixo custo e fácil utilização.
+Gestão Contábil Inteligente 📊: Sistema web voltado para pequenas empresas e escritórios de contabilidade (como a Fênix Assessoria), focando em baixo custo, automação de tributos e interface minimalista.
 
-💞️ Estou buscando colaborar em projetos de código aberto e iniciativas que ajudem a melhorar a eficiência e a transparência nos negócios.
+💻 Meu Stack Tecnológico:
+Frontend: React, Vite, HTML5, CSS3 (foco em UI/UX Minimalista e Glassmorphism).
 
-📫 Você pode me contatar por e-mail: lukasnog@outlook.com.
+Backend & Cloud: Supabase, Node.js, Netlify.
 
-Sinta-se à vontade para me mandar uma mensagem ou compartilhar suas ideias! 🚀
+Especialidades: PWA (Progressive Web Apps), Integração de APIs e Sistemas de Gestão (ERP).
+
+No que busco colaborar:
+Estou sempre aberto a projetos de Código Aberto (Open Source) que envolvam:
+
+Tecnologias para o Agronegócio (Agrotech).
+
+Ferramentas de transparência e eficiência financeira.
+
+Iniciativas que simplifiquem a burocracia para pequenos empreendedores.
+
+📫 Vamos conversar?
+E-mail: lukasnog@outlook.com
+
+"Transformando linhas de código em soluções para o mundo real." 🚀
